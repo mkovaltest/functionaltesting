@@ -1,0 +1,12 @@
+<Transaction-Details xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Transaction-Details.xsd">
+	<Transaction-ID>3216736241235</Transaction-ID>
+	<Deal-Type>mpayment</Deal-Type>
+	<TimeStamp></TimeStamp>
+	<Payer-Name>Parhomenko Aleksey Karlovich</Payer-Name>
+	<Payer-Account>44198001679010034901</Payer-Account>
+	<Beneficiary-Name>Medvedev Boris Vladimirovoch</Beneficiary-Name>
+	<Beneficiary-Account>44197671167183327082</Beneficiary-Account>
+	<Deal-Amount>10000.99</Deal-Amount>
+	<Deal-Date>2016-01-13</Deal-Date>
+	<Deal-Currecny>BCZ</Deal-Currecny>
+</Transaction-Details>
